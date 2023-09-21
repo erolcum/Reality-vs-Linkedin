@@ -1,6 +1,8 @@
 # Reality-vs-Linkedin
 
-```diff **Reality :**```<br>
+```diff 
+**Reality :**
+```<br>
 
 I got my Driving License
 
